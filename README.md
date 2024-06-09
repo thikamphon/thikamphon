@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pang.</h1>
+<h1 align="center">Hi 👋, I'm Thikamphon Rabaibpho.</h1>
 <h3 align="center">A passionate frontend developer from Thailand.</h3>
 <h3 align="center">I love to work with website creation and make the website beautiful. I am proficient with HTML, CSS, Javascript, Vue, React and others. Currently learning work API and connecting to databases such as Firebase.</h3>
 
