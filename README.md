@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Any framework ,API and Firebase.**
 
-- 👨‍💻 All of my projects are available at [Web Portfolio](https://thikamphon-s-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Web Portfolio](https://github.com/thikamphon/zuzooom.o)
 
 - 📫 How to reach me **thikamphon.pang@gmail.com**
 
