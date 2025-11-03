@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thikamphon&label=Profile%20views&color=0e75b6&style=flat" alt="thikamphon" /> </p>
 
-- 🌱 I’m currently learning **Any framework ,API and Firebase.**
-
 - 👨‍💻 All of my projects are available at [Web Portfolio](https://thikamphon.github.io/zuzooom.o/#/)
 
 - 📫 How to reach me **thikamphon.pang@gmail.com**
